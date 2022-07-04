@@ -1,0 +1,21 @@
+.card {
+    margin: 10px;  
+    color: rgb(214, 4, 4); 
+}
+
+
+.row {
+    margin:auto;
+    max-width: 1000px;
+    color: rgb(0, 0, 0);
+}
+
+body {
+    background-image: url("../marvelBackground.gif");
+}
+
+h1 {
+    margin:auto;
+    max-width: 1000px;
+    color: rgb(214, 4, 4);
+}
